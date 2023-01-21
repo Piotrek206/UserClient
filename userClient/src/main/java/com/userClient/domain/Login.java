@@ -5,7 +5,6 @@ import lombok.Data;
 
 @Data
 public class Login {
-
     @JsonProperty("uuid")
     private String loginUuid;
 }

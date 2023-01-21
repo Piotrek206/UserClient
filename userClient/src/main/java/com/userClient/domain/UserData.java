@@ -6,8 +6,7 @@ import lombok.Data;
 import java.util.List;
 
 @Data
-public class UserData
-{
+public class UserData {
     @JsonProperty("results")
     List<User> data;
 }

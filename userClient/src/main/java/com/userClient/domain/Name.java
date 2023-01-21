@@ -5,7 +5,6 @@ import lombok.Data;
 
 @Data
 public class Name {
-
     @JsonProperty("first")
     private String firstName;
 

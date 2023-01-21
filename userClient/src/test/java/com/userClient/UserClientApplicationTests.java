@@ -4,10 +4,8 @@ import org.junit.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class UserClientApplicationTests {
-
+public class UserClientApplicationTests {
 	@Test
-	void contextLoads() {
+	public void contextLoads() {
 	}
-
 }
