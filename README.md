@@ -18,3 +18,6 @@ To implement the client use:
 1. `RestTemplate` (from Spring Framework)
 2. Java 8 or higher
 3. Unit tests
+
+
+#restTemplate #example #rest #api #java #junit
